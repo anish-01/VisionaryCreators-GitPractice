@@ -1,1 +1,3 @@
 Notes for Assignment 3 Git practice
+
+Branch commit for assignment 3
